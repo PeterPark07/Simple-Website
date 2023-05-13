@@ -1,5 +1,0 @@
-buildCommand: echo "Nothing to build"
-publish:
-  root: /
-  staticDirs:
-    - / 
